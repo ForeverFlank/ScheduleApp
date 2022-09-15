@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="ScheduleApp.MainPage"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:model="clr-namespace:ScheduleApp.Model"
+    xmlns:viewmodel="clr-namespace:ScheduleApp.ViewModel"
+    x:DataType="viewmodel:TableViewModel"
+    Title="{Binding Title}">
+
+    <VerticalStackLayout Padding="20" Spacing="20">
+        <Button Text="Load"
+                Command="{Binding LoadTableCommand}"
+                IsEnabled="{Binding IsNotBusy}"/>
+        <HorizontalStackLayout
+            Padding="30"
+            HorizontalOptions="Center"
+            Spacing="5">
+            <Switch
+                x:Name="week"
+                OnColor="LightPink"
+                ThumbColor="HotPink" />
+            <Label
+                FontSize="24"
+                Text="A"
+                VerticalTextAlignment="Center">
+                <Label.Triggers>
+                    <DataTrigger
+                        Binding="{Binding Source={x:Reference week}, Path=IsToggled}"
+                        TargetType="Label"
+                        Value="true">
+                        <Setter Property="Text" Value="B" />
+                    </DataTrigger>
+                </Label.Triggers>
+            </Label>
+        </HorizontalStackLayout>
+        <CollectionView ItemsSource="{Binding Table}">
+            <CollectionView.ItemsLayout>
+                <GridItemsLayout Orientation="Vertical"
+                                 Span="4"/>
+            </CollectionView.ItemsLayout>
+            <CollectionView.ItemTemplate>
+                <DataTemplate x:DataType="model:Period">
+                    <Grid Padding="5"
+                          HeightRequest="114">
+                        <Button LineBreakMode="WordWrap"
+                                BackgroundColor="{Binding Source=}">
+                            <Button.Text>
+                                <MultiBinding StringFormat="{}{0} {1}">
+                                    <Binding Path="Subject.Code"/>
+                                    <Binding Path="Room"/>
+                                </MultiBinding>
+                            </Button.Text>
+                        </Button>
+                    </Grid>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </VerticalStackLayout>
+</ContentPage>

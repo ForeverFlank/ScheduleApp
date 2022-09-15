@@ -1,0 +1,402 @@
+[
+    {
+      "Week": "a",
+      "Day": 1,
+      "PeriodNumber": 1,
+      "Subject": {
+        "Code": "ค30101",
+        "Name": "วิยุตคณิตเบื้องต้น",
+        "Classroom": "https://classroom.google.com/c/NTIwNzgwNTk0NzYw",
+        "Sites": "https://sites.google.com/mwit.ac.th/mathcom1-65-mwit/m4/%E0%B8%8430101"
+      },
+      "Room": "1302"
+    },
+    {
+      "Week": "a",
+      "Day": 1,
+      "PeriodNumber": 2,
+      "Subject": {
+        "Code": "ว30193",
+        "Name": "การเขียนแบบและทักษะพื้นฐานงานช่าง",
+        "Classroom": "https://classroom.google.com/c/NDk1MzgwMDQwNTc4",
+        "Sites": "https://sites.google.com/mwit.ac.th/design-and-workshop-skill/home"
+      },
+      "Room": "โรงฝึกงาน 1"
+    },
+    {
+      "Week": "a",
+      "Day": 1,
+      "PeriodNumber": 3,
+      "Subject": {
+        "Code": "ว30181",
+        "Name": "วิทยาการคอมพิวเตอร์เบื้องต้น",
+        "Classroom": "https://classroom.google.com/c/NDk1MzYzMjc1NDk0",
+        "Sites": "https://sites.google.com/mwit.ac.th/intro2cs"
+      },
+      "Room": "1202"
+    },
+    {
+      "Week": "a",
+      "Day": 1,
+      "PeriodNumber": 4,
+      "Subject": {
+        "Code": "ศ30101",
+        "Name": "สุนทรียนาฏศิลป์ไทย",
+        "Classroom": "https://classroom.google.com/c/NDk1MzgwODc5OTc1%22",
+        "Sites": null
+      },
+      "Room": "ห้องนาฏศิลป์"
+    },
+    {
+      "Week": "a",
+      "Day": 2,
+      "PeriodNumber": 1,
+      "Subject": {
+        "Code": "ว30131",
+        "Name": "เคมีพื้นฐาน",
+        "Classroom": "https://classroom.google.com/c/NDk1MzQ4NDg0MTEx",
+        "Sites": "https://sites.google.com/mwit.ac.th/smartchemistry/home"
+      },
+      "Room": "3603"
+    },
+    {
+      "Week": "a",
+      "Day": 2,
+      "PeriodNumber": 2,
+      "Subject": null,
+      "Room": "1501"
+    },
+    {
+      "Week": "a",
+      "Day": 2,
+      "PeriodNumber": 3,
+      "Subject": {
+        "Code": "ท30101",
+        "Name": "ภาษาไทยเพื่อการสื่อสาร 1",
+        "Classroom": "https://classroom.google.com/c/NTIwNzgwODEyOTk5",
+        "Sites": null
+      },
+      "Room": "ห้องประชุมดร.ณัฐ"
+    },
+    {
+      "Week": "a",
+      "Day": 2,
+      "PeriodNumber": 4,
+      "Subject": null,
+      "Room": null
+    },
+    {
+      "Week": "a",
+      "Day": 3,
+      "PeriodNumber": 1,
+      "Subject": {
+        "Code": "ว30101",
+        "Name": "การเขียนแบบและทักษะพื้นฐานงานช่าง",
+        "Classroom": "https://classroom.google.com/c/NDk1MzgxMTI3MDcw",
+        "Sites": "https://sites.google.com/mwit.ac.th/sci30101/home"
+      },
+      "Room": "3701"
+    },
+    {
+      "Week": "a",
+      "Day": 3,
+      "PeriodNumber": 2,
+      "Subject": {
+        "Code": "พ30101",
+        "Name": "สุขศึกษาและพลศึกษา 1",
+        "Classroom": "https://classroom.google.com/c/NDk0NjY1ODk3Njcy",
+        "Sites": null
+      },
+      "Room": "ศูนย์กีฬา ชั้น2"
+    },
+    {
+      "Week": "a",
+      "Day": 3,
+      "PeriodNumber": 3,
+      "Subject": {
+        "Code": "ค30101",
+        "Name": "วิยุตคณิตเบื้องต้น",
+        "Classroom": "https://classroom.google.com/c/NTIwNzgwNTk0NzYw",
+        "Sites": "https://sites.google.com/mwit.ac.th/mathcom1-65-mwit/m4/%E0%B8%8430101"
+      },
+      "Room": "1301"
+    },
+    {
+      "Week": "a",
+      "Day": 3,
+      "PeriodNumber": 4,
+      "Subject": null,
+      "Room": null
+    },
+    {
+      "Week": "a",
+      "Day": 4,
+      "PeriodNumber": 1,
+      "Subject": {
+        "Code": "ว30161",
+        "Name": "โลกของสิ่งมีชีวิต",
+        "Classroom": "https://classroom.google.com/c/NDk1MjAxNDQ2MjIy",
+        "Sites": null
+      },
+      "Room": "3401"
+    },
+    {
+      "Week": "a",
+      "Day": 4,
+      "PeriodNumber": 2,
+      "Subject": null,
+      "Room": null
+    },
+    {
+      "Week": "a",
+      "Day": 4,
+      "PeriodNumber": 3,
+      "Subject": null,
+      "Room": null
+    },
+    {
+      "Week": "a",
+      "Day": 4,
+      "PeriodNumber": 4,
+      "Subject": {
+        "Code": "ค30102",
+        "Name": "พีชคณิตและแคลคูลัสของฟังก์ชันพหุนาม",
+        "Classroom": "https://classroom.google.com/c/NTIxMDQ1NzgzMjcx",
+        "Sites": "https://sites.google.com/mwit.ac.th/mathcom1-65-mwit/m4/%E0%B8%8430102"
+      },
+      "Room": "1302"
+    },
+    {
+      "Week": "a",
+      "Day": 5,
+      "PeriodNumber": 1,
+      "Subject": null,
+      "Room": null
+    },
+    {
+      "Week": "a",
+      "Day": 5,
+      "PeriodNumber": 2,
+      "Subject": {
+        "Code": "ค30102",
+        "Name": "พีชคณิตและแคลคูลัสของฟังก์ชันพหุนาม",
+        "Classroom": "https://classroom.google.com/c/NTIxMDQ1NzgzMjcx",
+        "Sites": "https://sites.google.com/mwit.ac.th/mathcom1-65-mwit/m4/%E0%B8%8430102"
+      },
+      "Room": "ข้างหอประชุม"
+    },
+    {
+      "Week": "a",
+      "Day": 5,
+      "PeriodNumber": 3,
+      "Subject": null,
+      "Room": null
+    },
+    {
+      "Week": "a",
+      "Day": 5,
+      "PeriodNumber": 4,
+      "Subject": null,
+      "Room": null
+    },
+    {
+      "Week": "b",
+      "Day": 1,
+      "PeriodNumber": 1,
+      "Subject": {
+        "Code": "ค30101",
+        "Name": "วิยุตคณิตเบื้องต้น",
+        "Classroom": "https://classroom.google.com/c/NTIwNzgwNTk0NzYw",
+        "Sites": "https://sites.google.com/mwit.ac.th/mathcom1-65-mwit/m4/%E0%B8%8430101"
+      },
+      "Room": "1302"
+    },
+    {
+      "Week": "b",
+      "Day": 1,
+      "PeriodNumber": 2,
+      "Subject": {
+        "Code": "ว30193",
+        "Name": "การเขียนแบบและทักษะพื้นฐานงานช่าง",
+        "Classroom": "https://classroom.google.com/c/NDk1MzgwMDQwNTc4",
+        "Sites": "https://sites.google.com/mwit.ac.th/design-and-workshop-skill/home"
+      },
+      "Room": "โรงฝึกงาน 1"
+    },
+    {
+      "Week": "b",
+      "Day": 1,
+      "PeriodNumber": 3,
+      "Subject": {
+        "Code": "ว30181",
+        "Name": "วิทยาการคอมพิวเตอร์เบื้องต้น",
+        "Classroom": "https://classroom.google.com/c/NDk1MzYzMjc1NDk0",
+        "Sites": "https://sites.google.com/mwit.ac.th/intro2cs"
+      },
+      "Room": "1202"
+    },
+    {
+      "Week": "b",
+      "Day": 1,
+      "PeriodNumber": 4,
+      "Subject": null,
+      "Room": null
+    },
+    {
+      "Week": "b",
+      "Day": 2,
+      "PeriodNumber": 1,
+      "Subject": {
+        "Code": "ว30131",
+        "Name": "เคมีพื้นฐาน",
+        "Classroom": "https://classroom.google.com/c/NDk1MzQ4NDg0MTEx",
+        "Sites": "https://sites.google.com/mwit.ac.th/smartchemistry/home"
+      },
+      "Room": "3603"
+    },
+    {
+      "Week": "b",
+      "Day": 2,
+      "PeriodNumber": 2,
+      "Subject": null,
+      "Room": "1501"
+    },
+    {
+      "Week": "b",
+      "Day": 2,
+      "PeriodNumber": 3,
+      "Subject": {
+        "Code": "ท30101",
+        "Name": "ภาษาไทยเพื่อการสื่อสาร 1",
+        "Classroom": "https://classroom.google.com/c/NTIwNzgwODEyOTk5",
+        "Sites": null
+      },
+      "Room": "ห้องประชุมดร.ณัฐ"
+    },
+    {
+      "Week": "b",
+      "Day": 2,
+      "PeriodNumber": 4,
+      "Subject": null,
+      "Room": null
+    },
+    {
+      "Week": "b",
+      "Day": 3,
+      "PeriodNumber": 1,
+      "Subject": {
+        "Code": "ว30101",
+        "Name": "การเขียนแบบและทักษะพื้นฐานงานช่าง",
+        "Classroom": "https://classroom.google.com/c/NDk1MzgxMTI3MDcw",
+        "Sites": "https://sites.google.com/mwit.ac.th/sci30101/home"
+      },
+      "Room": "3701"
+    },
+    {
+      "Week": "b",
+      "Day": 3,
+      "PeriodNumber": 2,
+      "Subject": null,
+      "Room": null
+    },
+    {
+      "Week": "b",
+      "Day": 3,
+      "PeriodNumber": 3,
+      "Subject": {
+        "Code": "ว30131",
+        "Name": "เคมีพื้นฐาน",
+        "Classroom": "https://classroom.google.com/c/NDk1MzQ4NDg0MTEx",
+        "Sites": "https://sites.google.com/mwit.ac.th/smartchemistry/home"
+      },
+      "Room": "3603"
+    },
+    {
+      "Week": "b",
+      "Day": 3,
+      "PeriodNumber": 4,
+      "Subject": null,
+      "Room": null
+    },
+    {
+      "Week": "b",
+      "Day": 4,
+      "PeriodNumber": 1,
+      "Subject": {
+        "Code": "ว30161",
+        "Name": "โลกของสิ่งมีชีวิต",
+        "Classroom": "https://classroom.google.com/c/NDk1MjAxNDQ2MjIy",
+        "Sites": null
+      },
+      "Room": "3401"
+    },
+    {
+      "Week": "b",
+      "Day": 4,
+      "PeriodNumber": 2,
+      "Subject": null,
+      "Room": null
+    },
+    {
+      "Week": "b",
+      "Day": 4,
+      "PeriodNumber": 3,
+      "Subject": {
+        "Code": "ส30102",
+        "Name": "ศาสนาเปรียบเทียบ",
+        "Classroom": "https://classroom.google.com/c/NDk1MDY3MjE3NzU1",
+        "Sites": null
+      },
+      "Room": "1503"
+    },
+    {
+      "Week": "b",
+      "Day": 4,
+      "PeriodNumber": 4,
+      "Subject": {
+        "Code": "ค30102",
+        "Name": "พีชคณิตและแคลคูลัสของฟังก์ชันพหุนาม",
+        "Classroom": "https://classroom.google.com/c/NTIxMDQ1NzgzMjcx",
+        "Sites": "https://sites.google.com/mwit.ac.th/mathcom1-65-mwit/m4/%E0%B8%8430102"
+      },
+      "Room": "1302"
+    },
+    {
+      "Week": "b",
+      "Day": 5,
+      "PeriodNumber": 1,
+      "Subject": {
+        "Code": "ว30161",
+        "Name": "โลกของสิ่งมีชีวิต",
+        "Classroom": "https://classroom.google.com/c/NDk1MjAxNDQ2MjIy",
+        "Sites": null
+      },
+      "Room": "3401"
+    },
+    {
+      "Week": "b",
+      "Day": 5,
+      "PeriodNumber": 2,
+      "Subject": {
+        "Code": "ค30102",
+        "Name": "พีชคณิตและแคลคูลัสของฟังก์ชันพหุนาม",
+        "Classroom": "https://classroom.google.com/c/NTIxMDQ1NzgzMjcx",
+        "Sites": "https://sites.google.com/mwit.ac.th/mathcom1-65-mwit/m4/%E0%B8%8430102"
+      },
+      "Room": "ข้างหอประชุม"
+    },
+    {
+      "Week": "b",
+      "Day": 5,
+      "PeriodNumber": 3,
+      "Subject": null,
+      "Room": null
+    },
+    {
+      "Week": "b",
+      "Day": 5,
+      "PeriodNumber": 4,
+      "Subject": null,
+      "Room": null
+    }
+]
